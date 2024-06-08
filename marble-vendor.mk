@@ -787,31 +787,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/marble/proprietary/vendor/etc/lm/sPLHFeature.xml:$(TARGET_COPY_OUT_VENDOR)/etc/lm/sPLHFeature.xml \
     vendor/xiaomi/marble/proprietary/vendor/etc/mdss_dsi_m16t_36_02_0a_dsc_vid_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mdss_dsi_m16t_36_02_0a_dsc_vid_mi.xml \
     vendor/xiaomi/marble/proprietary/vendor/etc/mdss_dsi_m16t_36_0d_0b_dsc_vid_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mdss_dsi_m16t_36_0d_0b_dsc_vid_mi.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_cape/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media_cape/video_system_specs.json \
     vendor/xiaomi/marble/proprietary/vendor/etc/media_codecs_c2_audio.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_c2_audio.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_codecs_cape.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_cape.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_codecs_diwali_v0.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_diwali_v0.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_codecs_diwali_v1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_diwali_v1.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_codecs_diwali_v2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_diwali_v2.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_codecs_performance_cape.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_performance_cape.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_codecs_performance_diwali_v0.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_performance_diwali_v0.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_codecs_performance_diwali_v1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_performance_diwali_v1.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_codecs_performance_diwali_v2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_performance_diwali_v2.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_codecs_performance_taro.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_performance_taro.xml \
     vendor/xiaomi/marble/proprietary/vendor/etc/media_codecs_performance_ukee.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_performance_ukee.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_codecs_taro.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_taro.xml \
     vendor/xiaomi/marble/proprietary/vendor/etc/media_codecs_ukee.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_ukee.xml \
     vendor/xiaomi/marble/proprietary/vendor/etc/media_codecs_vendor_audio.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_vendor_audio.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_diwali_v0/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media_diwali_v0/video_system_specs.json \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_diwali_v1/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media_diwali_v1/video_system_specs.json \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_diwali_v2/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media_diwali_v2/video_system_specs.json \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_profiles_cape.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_cape.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_profiles_diwali_v0.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_diwali_v0.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_profiles_diwali_v1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_diwali_v1.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_profiles_diwali_v2.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_diwali_v2.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_profiles_taro.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_taro.xml \
     vendor/xiaomi/marble/proprietary/vendor/etc/media_profiles_ukee.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_ukee.xml \
-    vendor/xiaomi/marble/proprietary/vendor/etc/media_taro/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media_taro/video_system_specs.json \
     vendor/xiaomi/marble/proprietary/vendor/etc/media_ukee/video_system_specs.json:$(TARGET_COPY_OUT_VENDOR)/etc/media_ukee/video_system_specs.json \
     vendor/xiaomi/marble/proprietary/vendor/etc/microphone_characteristics.xml:$(TARGET_COPY_OUT_VENDOR)/etc/microphone_characteristics.xml \
     vendor/xiaomi/marble/proprietary/vendor/etc/models/acd/event.eai:$(TARGET_COPY_OUT_VENDOR)/etc/models/acd/event.eai \
